@@ -1,8 +1,0 @@
-[
-  {
-    "remote": "TeamWin",
-    "repository": "android_device_realme_RMX3231-common",
-    "target_path": "device/realme/RMX3231-common",
-    "branch": "android-11"
-  }
-]
